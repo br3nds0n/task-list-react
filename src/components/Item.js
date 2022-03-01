@@ -1,7 +1,9 @@
 import React from "react";
 
-const Task = () => {
-  return ( <h1>task</h1> );
+import "../style/Item.css"
+
+const Task = ({ task }) => {
+  return <div class="item-container">{task.title}</div>;
 }
 
 export default Task;
