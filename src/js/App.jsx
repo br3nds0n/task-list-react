@@ -6,7 +6,6 @@ import AddTask from "../components/AddTask";
 import "../style/App.css";
 
 const App = () => {
-  // let message = "hello word"
   const [tasks, setTasks] = useState([
     {
       id: '1',
@@ -20,10 +19,22 @@ const App = () => {
     }
   ]);
 
+  const handleTaskAddition = (taskTitle) => {
+    const newTask = [
+      ...tasks, {
+        title: taskTitle,
+        id: Math.random(10),
+        completed: false
+      }
+    ];
+
+    setTasks(newTask);
+  }
+
   return ( 
   <div>
     <div className="container">
-      <AddTask />
+      <AddTask handleTaskAddition={handleTaskAddition}/>
       <Tasks tasks={tasks}/>
     </div>
   </div>
