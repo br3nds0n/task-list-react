@@ -52,7 +52,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/br3nds0n/compass-lisa.git>
+$ git clone <https://github.com/br3nds0n/task-list-react>
 
 # Acesse a pasta do projeto no terminal
 $ cd task-list-react
