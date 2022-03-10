@@ -1,4 +1,4 @@
-# Task List React <img align="right" src="https://img.shields.io/static/v1?label=project&message=React&color=0093C1&style=for-the-badge&logo=ghost"/>
+# Task List React ⚛︎ <img align="right" src="https://img.shields.io/static/v1?label=project&message=React&color=0093C1&style=for-the-badge&logo=ghost"/>
 <p align="center">
 <img height="250" width="850" src="">
 </p>
