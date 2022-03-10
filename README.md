@@ -29,12 +29,10 @@ Vamos ao projeto!! 🚀
  ## 🧠 Contexto
 > **Característica do Projeto:**  *Lista de tarefas* 📝
 
-Nesta parte 01 do [desafio](https://github.com/br3nds0n/reademefinal/files/7939240/Desafio_Final-_Part._1.pdf) final do programa de bolsas, será a criação de um seguimento carros para alugar de luxo e semi luxo. Nesta API terá os fluxos de:
+Neste projeto crio uma interface de lista de tarefas onde o usuário pode gerenciar suas atividades/tarefas diárias. Aplico os fluxos de:
 
- * Interação de métodos http. (criar, buscar, editar e remover);
- * Busca por query params;
- * Paginação;
- * Autenticação de cadastro;
+ * Interação. (criar e remover tarefas);
+ * Consumo de api externa;
 
 ---
 
