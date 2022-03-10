@@ -1,12 +1,20 @@
 import React from "react";
-import Task from "./Item";
 
-const Tasks = ({ tasks }) => {
-  return (
-    <div>
-      {tasks.map((task )=> (<Task task={task} />))}
-    </div>
-  );
+import Task from "./Task";
+
+const Tasks = ({ tasks, handleTaskClick, handleTaskDeletion }) => {
+	return (
+		<div>
+			{tasks.map((task) => (
+				<Task
+					key={task.id}
+					task={task}
+					handleTaskClick={handleTaskClick}
+					handleTaskDeletion={handleTaskDeletion}
+				/>
+			))}
+		</div>
+	);
 };
 
 export default Tasks;
