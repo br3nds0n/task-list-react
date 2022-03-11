@@ -1,6 +1,6 @@
 # Task List React ⚛︎ <img align="right" src="https://img.shields.io/static/v1?label=project&message=React&color=0093C1&style=for-the-badge&logo=ghost"/>
 <p align="center">
-<img height="250" width="850" src="">
+<img height="250" width="850" src="https://user-images.githubusercontent.com/82064724/157788643-95c2a99d-1e4e-4944-918c-456933d6852d.gif">
 </p>
 
 Bem-vindo(a).
@@ -66,7 +66,7 @@ $ npm install
 # Rodando em modo de produção
 $ npm start
 
-# O projeto inciará na porta:<PORT> - acesse <http://localhost:<PORT>/api/v1/> no postman
+# O projeto inciará na porta:3000 - acesse <http://localhost:3000/>
 ```
 <br>
 
