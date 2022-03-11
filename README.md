@@ -19,6 +19,7 @@ Vamos ao projeto!! 🚀
    * [📥 Baixar e executar o projeto](#-Baixar-e-executar-o-projeto)
      * [Setup da aplicação](#-setup-da-aplicação)
      * [Iniciando a aplicação](#-iniciando-a-aplicação)
+     * [Visualização](#-Visualização)
    * [🛠 Tecnologias](#-tecnologias)
    * [✍🏼 Autor](#-Autor)
    * [📝 Licença](#-licença)
@@ -68,8 +69,14 @@ $ npm start
 
 # O projeto inciará na porta:3000 - acesse <http://localhost:3000/>
 ```
-<br>
+#
 
+### 👀 Visualização
+> Aqui é onde utilizo a aplicação, fazendo `adições/remoções` a lista de tarefas.
+
+![list](https://user-images.githubusercontent.com/82064724/157792659-94563cb9-794d-4ae6-ba12-36af58d63e90.gif)
+
+<br>
 
 [<Back](#indice)
 
